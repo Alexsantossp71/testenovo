@@ -6,4 +6,6 @@ cadastro de usuario
 
 cadastro de produtos
 
+cadastro de veiculos
+
 
