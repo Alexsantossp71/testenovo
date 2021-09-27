@@ -1,2 +1,8 @@
 ola versao 1
 
+<<<<<<< HEAD
+=======
+eita apareceu um monte de coisa
+
+mais coisa eu coloquei
+>>>>>>> nova
